@@ -1,0 +1,41 @@
+:root{
+    --primary-color: #003399;
+}
+body {
+    background-image: url("images/minions.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+
+.nav{
+    background-color: #FFD55E;
+    color: black;
+    padding-left: 1rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0 1rem;
+    margin: auto;
+    display: block;
+    text-align: center;
+    height: 1.5cm;
+}
+
+#button-translate{
+    padding: 1rem;
+    margin: auto;
+    display: block;
+    border-radius: 0.5cm;
+    background-color: #F3F4F6;   
+}
+
+.footer{
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+
+}
