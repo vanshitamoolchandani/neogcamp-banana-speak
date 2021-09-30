@@ -35,10 +35,41 @@ body {
     background-color: #F3F4F6;   
 }
 
+
+.list-inline{
+    display: inline;
+    text-align: right;
+    padding: 1rem;
+    }
 .footer{
     background-color: whitesmoke;
     text-align: center;
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
+    border-top: 1rem;
+    color: black;
+    padding-left: 1rem;
+    padding-top: 0.1rem;
+    padding-inline-start: 0px;
+    padding-bottom: 1rem;
 
+}
+.footer .link{
+    color: black;
+}
+
+
+
+.heading-red-blog{
+    padding-left: 3rem;
+
+}
+.social {
+    font-size: 3rem;
+}
+.list-nobullets{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
 }
